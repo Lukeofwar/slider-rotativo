@@ -1,5 +1,5 @@
-slider rotativo para site responsivo
+## slider rotativo para site responsivo
 
-###linguagens usadas:
+### linguagens usadas:
 
 javascript e css

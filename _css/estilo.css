@@ -4,5 +4,11 @@
     background: rgb(201, 201, 201);
     font-family: 'Dancing Script', cursive;
 }
-
+#main {
+  max-width: 300px;  
+  margin: 0 auto;
+}
+img {
+    max-width: 100%;
+}
 

@@ -3,7 +3,7 @@
 * Simples slide responsivo
 */ 
 
-var intervalo = 2000;
+var intervalo = 2500;
 
 function slide1() {
     document.getElementById("slide").src = "_imagens/img-2.jpg";

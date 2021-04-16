@@ -21,3 +21,20 @@ function slide3() {
 
 }
 
+
+      var name =prompt("qual é o seu nome ?"); 
+        alert('bem vindo' + void)
+      
+
+      var idade =prompt("qual é a sua idade ?"); 
+        alert(idade > 18)
+
+        if(idade > 18){
+alert("acesso permitido")
+        }
+        else {
+          alert("acesso negado")
+        }
+
+    
+

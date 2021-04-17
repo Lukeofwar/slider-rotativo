@@ -23,7 +23,7 @@ function slide3() {
 
 
       var name =prompt("qual é o seu nome ?"); 
-        alert('bem vindo' + void)
+        alert('bem vindo' + name);
       
 
       var idade =prompt("qual é a sua idade ?"); 
@@ -35,6 +35,3 @@ alert("acesso permitido")
         else {
           alert("acesso negado")
         }
-
-    
-

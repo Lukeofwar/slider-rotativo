@@ -3,4 +3,4 @@ para aprimoramento de conhecimento
 
 ### linguagens usadas:
 
-javascript e css.
+Typescript, javascript e css.

@@ -1,5 +1,5 @@
 /*
-* atribuição de trabalho com ferramente open source. 
+* atribuição de trabalho com ferramenta open source. 
 * para melhor visualização de trabalho full stack.
 */
 
@@ -8810,4 +8810,4 @@ declare var HTMLTableSectionElement: {
 /** Enables access to the contents of an HTML <template> element. */
 interface HTMLTemplateElement extends HTMLElement {
     readonly content: DocumentFragment;
-    addEventListener<K extends keyof HTMLElementEventMap>(type: K, listener: (this: HTMLTemplateElement, ev: HTMLElementEventMap[K]
+    addEventListener<K extends keyof HTMLElementEventMap
